@@ -1,0 +1,25 @@
+date,zone,type_evenement,description
+2025-04-10,Zone A,Orage,Orage avec éclairs et précipitations intenses 
+2025-06-05,Zone A,Sécheresse,"Début de sécheresse, humidité sol < 15%"
+2025-06-18,Zone A,Sécheresse,"Sécheresse persistante, stress hydrique sur cultures"
+2025-06-30,Zone A,Alerte chaleur,Température > 38°C relevée à l'ombre
+2025-07-12,Zone A,Reprise pluies,Premières pluies après 6 semaines de sécheresse
+2025-04-11,Zone B,Pluies,Pluies continues toute la journée
+2025-07-01,Zone B,Inondation,"Débordement rivière, rues submergées"
+2025-07-05,Zone B,Inondation,"Évacuations locales, capteurs immergés"
+2025-07-10,Zone B,Maintenance,Opération de maintenance massive post-inondation
+2025-07-20,Zone B,Retour normal,"Eaux en recul, reprise progressive des mesures"
+2025-04-12,Zone C,Vent fort,Rafales dépassant les 100 km/h
+2025-04-14,Zone C,Vent fort,Bourrasques avec dégâts mineurs sur antennes
+2025-05-05,Zone C,Vent fort,"Rafales extrêmes, 3 capteurs renversés"
+2025-05-19,Zone C,Vent fort,Tempête hebdomadaire récurrente
+2025-06-09,Zone C,Alerte,Alerte maintenance prédictive déclenchée sur 4 capteurs
+2025-07-07,Zone C,Vent fort,Vents soutenus >40 km/h durant 48h
+2025-04-16,Zone D,Grêle,"Grêle de 3 cm signalée sur les toits, capteur SD03 endommagé"
+2025-05-15,Zone D,Tempête,"Début tempête majeure, vents >80 km/h"
+2025-05-17,Zone D,Tempête,Pic tempête: 4 capteurs en défaillance simultanée
+2025-05-20,Zone D,Tempête,"Pluies torrentielles, glissements de terrain mineurs"
+2025-05-25,Zone D,Post-tempête,"Fin tempête, bilan: 6 capteurs à remplacer, couverture 40%"
+2025-06-15,Zone D,Maintenance,Déploiement équipe maintenance en montagne
+2025-07-03,Zone D,Orage,"Orage électrique, interférence GPS sévère"
+2025-07-25,Zone D,Alerte,Nouvelle alerte vent: vitesse_vent >60 km/h sur 3 capteurs
